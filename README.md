@@ -15,6 +15,8 @@ We also are avid gamers, having played numerous games ever since we are child. B
 
 We have created different projects to learn Unity by ourselves, in particular a FPS appropriately named SpuctreFPS. The goal in this project is to build a game with various functionnalities such as Online gaming, 3D manipulation and fast-paced action. As said earlier, we love playing video games, and creating our own game is a valuable experience to us.
 
+Here is a link to our last video about the game : https://youtu.be/q6gJwUQXt0E
+
 # This portfolio
 
 We are using Github to display our progress in those projects through videos, if you have any question or remark about our projects, please feel free to contact us at spuctreentertainment@gmail.com , or by directly contacting us through LinkedIn.
