@@ -3,10 +3,8 @@
 Hi ! Welcome in our portfolio, we are two french students in last year of engineering school:
 
 -Lucas Lesage, student at Polytech Grenoble
-https://www.linkedin.com/in/lucas-lesage-1a237b138/
 
 -Nicolas de Kerleau, student at Ensimag Grenoble INP
-https://www.linkedin.com/in/nicolas-de-kerleau-b66427124/
 
 
 We are both studying IT , ranging from Networks, Multimedia and Programming. As engineer students, we also learned Software engineering and various qualities aspects of softwares in the professional field.
