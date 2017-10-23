@@ -17,4 +17,4 @@ Here is a link to our last video about the game : https://youtu.be/q6gJwUQXt0E
 
 # This portfolio
 
-We are using Github to display our progress in those projects through videos, if you have any question or remark about our projects, please feel free to contact us at spuctreentertainment@gmail.com , or by directly contacting us through LinkedIn.
+We are using Github to display our progress in those projects through videos, if you have any question or remark about our projects, please feel free to contact us at spuctreentertainment@gmail.com .
