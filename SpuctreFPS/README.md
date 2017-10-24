@@ -7,5 +7,10 @@ This is a fast-paced online FPS game, inspired by Quake. It is powered by Unity,
 Here is an introduction to the game current functionnalities :
 https://youtu.be/q6gJwUQXt0E
 
+Here is an uncut footage of the gameplay:
+https://youtu.be/BAlg8wCo0BE
+
+---
+
 Here is an older introduction :
 https://youtu.be/eYGopu36_o4
